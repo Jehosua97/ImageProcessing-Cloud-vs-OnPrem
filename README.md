@@ -66,6 +66,8 @@ The script `master_pipeline.py` coordinates the entire experiment:
    - Generate comparison plots in `metrics/charts/`.
 
 
+<img width="661" height="452" alt="onpremises drawio" src="https://github.com/user-attachments/assets/fd308267-ed61-4867-b515-647d0a1b7871" />
+<img width="921" height="506" alt="Cloud drawio" src="https://github.com/user-attachments/assets/189de641-c036-4ad4-84a6-676270f739a9" />
 
 ---
 
